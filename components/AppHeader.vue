@@ -4,5 +4,7 @@
         <NuxtLink to="/about">About</NuxtLink>
         <NuxtLink to="/products">Producten</NuxtLink>
         <NuxtLink to="/cart">Cart</NuxtLink>
+        <NuxtLink to="/crypto">Crypto</NuxtLink>
+        <NuxtLink to="/pokemon">Pokemon</NuxtLink>
     </div>
 </template>
