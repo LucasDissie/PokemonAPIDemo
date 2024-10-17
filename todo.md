@@ -10,3 +10,19 @@ mx0vglwKhWH5sdkmFf
 
 pokemon website
 - 
+
+
+
+Descuss website
+
+root argument = discussion
+- list of arguments
+argument
+- scale
+- upvotes down votes
+- other arguments as comments > loop
+    - arguments
+    - scale
+    - upvotes downvotes
+
+my argument

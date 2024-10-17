@@ -6,5 +6,6 @@
         <NuxtLink to="/cart">Cart</NuxtLink>
         <NuxtLink to="/crypto">Crypto</NuxtLink>
         <NuxtLink to="/pokemon">Pokemon</NuxtLink>
+        <NuxtLink to="/descuss">Descuss</NuxtLink>
     </div>
 </template>
